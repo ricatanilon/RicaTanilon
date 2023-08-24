@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm Rica Mikaela Tanilon
+
+Aspiring Computer Engineer on a journey to innovate, learn, and contribute to the world of technology
 
 <!--
 **ricatanilon/RicaTanilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
