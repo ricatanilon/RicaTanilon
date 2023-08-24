@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Rica Mikaela Tanilon
 
-CPSOFT30 ACTIVITY
+CPSOFT30 ACTIVITY 
 
 <!--
 **ricatanilon/RicaTanilon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
